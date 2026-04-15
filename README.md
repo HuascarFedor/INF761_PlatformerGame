@@ -51,35 +51,10 @@ El repositorio está organizado en **4 tags**, cada uno correspondiente al avanc
 
 | Tag | Guía | Descripción |
 |-----|------|-------------|
-| `guia-5` | Guía 5 | *Pendiente de descripción* |
-| `guia-6` | Guía 6 | *Pendiente de descripción* |
-| `guia-7` | Guía 7 | *Pendiente de descripción* |
-| `guia-8` | Guía 8 | *Pendiente de descripción* |
-
-### Cambiar entre tags
-
-Para ver el estado del proyecto en una guía específica:
-
-```bash
-git checkout guia-5
-```
-
-Para volver a la rama principal:
-
-```bash
-git checkout main
-```
-
-### Crear un tag (para el docente)
-
-Después de completar el avance de cada guía:
-
-```bash
-git tag guia-5
-git push origin guia-5
-```
-
----
+| `guia-5` | Guía 5 | *Tile Palette, creación de tilesets, Tilemap Collider 2D, capas de tilemap (fondo, suelo, decoración), Cinemachine básico, Raycast para detección de suelo. Mini-juego: nivel de plataformas recorrible.* |
+| `guia-6` | Guía 6 | *Sprite sheets, Animation clips, Animator Controller, transiciones con parámetros, Coyote Time, salto variable. Evolución: personaje animado con movimiento fluido.* |
+| `guia-7` | Guía 7 | *Enemigos patrulleros (waypoints), monedas coleccionables, sistema de vidas con iframes, trampas (pinchos, plataformas móviles), ScriptableObjects para datos de items.* |
+| `guia-8` | Guía 8 | *SceneManager, Canvas completo (HUD, menú principal, game over), botones, DontDestroyOnLoad, transición entre niveles. Resultado: juego de plataformas completo y jugable.* |
 
 ## Docente
 
