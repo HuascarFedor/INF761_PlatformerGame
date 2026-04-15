@@ -1,0 +1,118 @@
+# ===============================
+# Unity Generated
+# ===============================
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# ===============================
+# Memory Profiler Snapshots
+# ===============================
+/[Mm]emoryCaptures/
+
+# ===============================
+# Recordings (Unity Recorder)
+# ===============================
+/[Rr]ecordings/
+
+# ===============================
+# Asset Import Overrides
+# ===============================
+/[Aa]sset[Ii]mport[Oo]verrides/
+
+# ===============================
+# Auto-generated VS/Rider files
+# ===============================
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ===============================
+# Unity3D generated meta files
+# ===============================
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# ===============================
+# Unity3D generated file on crash
+# ===============================
+sysinfo.txt
+
+# ===============================
+# Builds
+# ===============================
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# ===============================
+# Crashlytics
+# ===============================
+crashlytics-build.properties
+
+# ===============================
+# Packed Addressables
+# ===============================
+/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# ===============================
+# TextMeshPro
+# ===============================
+/[Aa]ssets/TextMesh*Pro/Resources/TMP*Settings.asset
+
+# ===============================
+# IDE - Visual Studio
+# ===============================
+.vs/
+
+# ===============================
+# IDE - JetBrains Rider
+# ===============================
+.idea/
+*.iml
+
+# ===============================
+# IDE - Visual Studio Code
+# ===============================
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# ===============================
+# OS Generated Files
+# ===============================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ===============================
+# Plastic SCM (Unity Version Control)
+# ===============================
+ignore.conf
+*.private.0
+*.private
